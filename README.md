@@ -8,7 +8,6 @@ Este proyecto proporciona una imagen Docker para Nagios Core, configurada para e
 
 - Una cuenta de AWS y acceso a una instancia EC2.
 - Docker instalado en la instancia EC2.
-- Acceso a GitHub para subir el código.
 
 ## Instrucciones
 
